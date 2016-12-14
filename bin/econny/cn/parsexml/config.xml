@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <className>test11.CatAdapter</className>
+    <className>test12.CatAdapter</className>
+    <className>test13.CatAdapter</className>
+    <className>test14.CatAdapter</className>
+    <className>test15.CatAdapter</className>
+    <className>test16.CatAdapter</className>
+    <className>test17.CatAdapter</className>
+</config>
